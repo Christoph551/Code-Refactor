@@ -16,6 +16,8 @@ The navigation bar at the top right of the page has 3 functional links that will
 
 ## Credits
 
+Original Source Code pulled from [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram)
+
 I collaborated with Joshua Minor, Anthony Frederick and Logan Peterson.
 Primary resource information was from W3 Schools and Bootcamp Materials.
 - [Joshua Minor](github.com/jminor90)
