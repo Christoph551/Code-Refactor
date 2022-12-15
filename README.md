@@ -12,14 +12,15 @@ N/A
 
 The navigation bar at the top right of the page has 3 functional links that will assist in navigating to topics listed on the site. 
 
-    ![alt text](assets/images/Horiseon.png)
+![Image of website](assets/images/Horiseon.png)
 
 ## Credits
 
 I collaborated with Joshua Minor, Anthony Frederick and Logan Peterson.
-github.com/jminor90
-github.com/AnthonyFrederick7
-gibhub.com/codeDevLogan
+Primary resource information was from W3 Schools and Bootcamp Materials.
+- [Joshua Minor](github.com/jminor90)
+- [Anthony Frederick](github.com/AnthonyFrederick7)
+- [Logan Peterson](gibhub.com/codeDevLogan)
 
 ## License
 
