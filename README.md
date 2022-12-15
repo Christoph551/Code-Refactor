@@ -23,7 +23,7 @@ I collaborated with Joshua Minor, Anthony Frederick and Logan Peterson.
 Primary resource information was from W3 Schools and Bootcamp Materials.
 - [Joshua Minor](https://github.com/jminor90)
 - [Anthony Frederick](https://github.com/AnthonyFrederick7)
-- [Logan Peterson](https://gibhub.com/codeDevLogan)
+- [Logan Peterson](https://github.com/codeDevLogan)
 
 ## License
 
