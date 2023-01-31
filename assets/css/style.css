@@ -1,29 +1,30 @@
+/* Selector for the overall page's styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Overall background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling for overall header. Made the background color same shade of blue */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Targeting the h1 element (Horiseon Title) */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Targeting the span for seo to be a different color. Made a darker grey for accessibility */
 header h1 .seo {
     color: #969696;
 }
-
+/* Nav elements (SEO, Online Rep, Social Media Marketing) */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,25 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-article {
-    display: block;
-}
-
+/* Anchor tags for each of the nav elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Sets a left margin and inline-block properties on nav elements */
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/* Each topic (SEO, Online Rep, SM marketing) set to block  */
+article {
+    display: block;
+}
+/* Selector for all paragraph tags to have same text size */
 p {
     font-size: 16px;
 }
-
+/* Hero class is the Horiseon meeting image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Selector for SEO and SM Marketing to start from left side */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Selector for Online Rep to start from right side */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Selector on main to set margin and overall width of boxes */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Selector on the aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,25 +86,25 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-
+/* Selector for each of the h3 elements */
 h3 {
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;
 }
-
+/* Each of the images shown in the aside */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Each of the paragraph elements in the aside */
 .benefits p {
     display: block;
     color: #ffffff;
     margin: 0px 30px 20px 30px;
 }
-
+/* Created class for each of the topics to consolidate CSS selectors */
 .topics {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,16 +113,16 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Each image shown in the articles */
 .content img {
     max-height: 200px;
 }
-
+/* Styling on h2 elements within the articles */
 .topics h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Styling on the footer element at the base of the page */
 footer {
     padding: 30px;
     clear: both;
